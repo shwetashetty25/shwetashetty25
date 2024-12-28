@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there, I'm Shweta Shetty!👋🏻
 
-<!--
-**shwetashetty25/shwetashetty25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+---
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 First-year B.Tech Computer Science student passionate about exploring cutting-edge technology and solving real-world problems.  
+🛠️ Skilled in **Python** and **C++** .  
+💡 Enthusiastic about learning and experimenting with new tools and frameworks.  
+
+---
+
+## 🛠️ Skills  
+
+### Programming Languages  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+### Tools  
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+---
+
+## 🌟 Current Focus  
+
+- 🌱 Building a strong foundation in computer science principles.  
+- 🔍 Exploring exciting areas like web development and UI/UX design.  
+- 🖌️ Creating intuitive and user-friendly designs with Figma.  
+
+---
+
+## 📫 Let's Connect  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shweta-shetty-340196332/))
+
+---
+
+Feel free to explore my repositories and collaborate with me on exciting projects. Let's build something amazing together! 💻
